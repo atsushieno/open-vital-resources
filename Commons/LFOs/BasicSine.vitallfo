@@ -1,0 +1,9 @@
+{
+  "author": "atsushieno",
+  "name": "Basic Sine",
+  "num_points": 3,
+  "points": [0.0, 1.0, 0.5, 0.0, 1.0, 1.0],
+  "powers": [-1.0, 1.0, -1.0],
+  "smooth": true
+}
+

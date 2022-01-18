@@ -1,0 +1,9 @@
+{
+  "author": "atsushieno",
+  "name": "Basic Square",
+  "num_points": 4,
+  "points": [0.0, 0.0, 0.5, 0.0, 0.5, 1.0, 1.0, 1.0],
+  "powers": [0.0, 0.0, 0.0, 0.0],
+  "smooth": false
+}
+
